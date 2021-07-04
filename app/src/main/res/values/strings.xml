@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Areuokey</string>
+    <string name="mnview">lihatdata</string>
+    <string name="mnedit">lihatnomer</string>
+    <string name="message">consultasi</string>
+    <string name="lamp">psikologi</string>
+    <string name="phone">contact</string>
+    <string name="savebtn">save</string>
+    <string name="enter_text_here">Enter text here</string>
+    <string name="tUsr">Email</string>
+    <string name="tsignin">Sign-in</string>
+    <string name="tPassword">Password</string>
+    <string name="btnrgs">Belum Terdaftar ?</string>
+    <string name="datakontak">Data Kontak</string>
+    <string name="namaitem">Nama Item</string>
+    <string name="lihatdata">Lihat Data</string>
+    <string name="lihatnomer">Lihat Nomor</string>
+    <string name="detailkontak">Detail Kontak</string>
+    <string name="Search">Search</string>
+    <string name="nama">Nama</string>
+    <string name="notel">No. Telepon</string>
+    <string name="labelregister">Pendaftaran</string>
+    <string name="Jeniskelamin">Jenis Kelamin</string>
+    <string name="Agama">Agama</string>
+    <string name="Email">Email</string>
+    <string name="Alamat">Alamat</string>
+    <string name="repass">Re-Password</string>
+    <string name="lakilaki">Laki - Laki</string>
+    <string name="prempuan">Perempuan</string>
+    <string name="batal">Batal</string>
+    <string name="Register">Daftar</string>
+    <string-array name="DataKontak">
+        <item>Ana</item>
+        <item>Ani</item>
+        <item>Anu</item>
+        <item>Ane</item>
+        <item>Ano</item>
+    </string-array>
+
+</resources>
